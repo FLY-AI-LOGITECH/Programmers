@@ -16,3 +16,11 @@ FLY AI 코딩 테스트 스터디
 
 
 운영 방식에 대한 의견 있으시면 언제든 말씀해주십셔
+
+
+## 2주차 문제
+1. https://school.programmers.co.kr/learn/courses/30/lessons/340198
+
+2. https://school.programmers.co.kr/learn/courses/30/lessons/172928
+
+3. https://school.programmers.co.kr/learn/courses/30/lessons/176963
